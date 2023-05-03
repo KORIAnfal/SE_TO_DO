@@ -1,1 +1,1 @@
-This repository is fot the Todo list Setup 
+This repository is for the Todo list Setup 
